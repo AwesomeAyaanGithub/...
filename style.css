@@ -1,0 +1,38 @@
+  
+div{
+    background: linear-gradient(90deg, rgb(255, 255, 255) 0%, rgb(92, 88, 88) 35%, rgb(0, 0, 0) 100%);
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pegaweb.com%2Ftutorials%2Fopen-book-with-pages%2F1.htm&psig=AOvVaw2Sdg-8pAp_2JXlSgNR5m_k&ust=1632110044727000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMCArPCRivMCFQAAAAAdAAAAABAo);
+    padding-top:50px;
+    width:800px;
+    height:600px;
+    margin:auto;
+
+}
+body{
+    text-align: center;
+    font-family: Arial;
+    color:rgb(111, 0, 255);
+    background-color:#E4F9F5 ;
+}
+
+img{
+    width: 200px; 
+    height:250px;
+    margin-top:30px;
+
+}
+
+h1{
+    font-size: 5rem;
+    font-family: 'Allura', cursive;
+    text-shadow: 1px 1px;
+}
+p{
+
+    font-size: 1.5rem;
+    display: inline-block;
+    position:relative;
+    left: 40%;
+    top:80%;
+    padding:0;
+}
